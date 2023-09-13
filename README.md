@@ -4,7 +4,7 @@
 |   |   |
 |---|---|
 |Andrei Sburlan|300173863|
-|MArc Brewer|300326622|
+|Marc Brewer|300326622|
 |   |   |
 |   |   |
 |   |   |
